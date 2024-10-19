@@ -4,4 +4,4 @@ Python과 FastAPI를 사용해 맞춤법 검사 API 서버를 구현한 프로�
 
 사용자는 모바일 앱을 통해 텍스트를 입력하고, 서버와 연동하여 맞춤법을 검사한 후 교정된 텍스트를 받습니다.
 
-이 프로젝트는 [부산대학교 맞춤법 검사기](https://github.com/9beach/hanspell, "깃허브 링크") 를 사용합니다.
+이 프로젝트는 [부산대학교 맞춤법 검사기](https://github.com/9beach/hanspell) 를 사용합니다.
